@@ -15,9 +15,9 @@ def main():
 
     # process & output
     print("")
-    if number_from_user == constants.number:
+    if number_from_user == constants.NUMBER:
         print("You guessed correctly!")
-    if number_from_user != constants.number:
+    if number_from_user != constants.NUMBER:
         print("You guessed incorrectly :(")
 
     print("\nDone.")
