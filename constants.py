@@ -4,4 +4,4 @@
 # Created on: March 2022
 # This file holds the constants for the pizza program
 
-number = 4
+NUMBER = 4
